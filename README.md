@@ -18,5 +18,11 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 **This repo**  is created to make it easy to keep track of my progress during the challenge and to add a visual effect to my progress and commitment by updating my GitHub contribution chart daily **(extra motivation!).**
 
+.
+
+
+![git](https://user-images.githubusercontent.com/36210723/87428302-d2ed2f00-c5ea-11ea-9aa1-21b8c3cd7a7d.jpg)
+
+.
 
 

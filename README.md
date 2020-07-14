@@ -68,7 +68,7 @@ The **general guidelines** and additional info about the challenge can be found 
  
  * Completed Lesson 2.1 to 2.11
  
- - Encouraging  
+ - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha :nerd_face:
  
  
  
@@ -77,12 +77,11 @@ The **general guidelines** and additional info about the challenge can be found 
 
 -----------------------------
 
- - Completed introduction
+ - Create this repo
  
- * Completed Lesson 2.1 to 2.11
+ * Completed Lesson 2.3 to 2.22
  
- - Encouraging  
- 
+ - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha :nerd_face:
 
 
 

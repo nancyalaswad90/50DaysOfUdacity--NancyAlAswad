@@ -1,4 +1,6 @@
 
+.
+
 
 # 50DaysOfUdacity
 
@@ -59,14 +61,16 @@ The **general guidelines** and additional info about the challenge can be found 
 -------------------------------
 
 
-- Click on the Use this template button at the top of the [template;](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/edit/master/README.md)
+- Click on the Use this template button at the top of the [template;](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/README.md)
 
 
 
 
-- Create your **own repo** from the [template;](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/edit/master/README.md) by entering a **Repository name** (e.g. 50DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button;
+- Create your **own repo** from the [template;](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/README.md) by entering a **Repository name** (e.g. 50DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button;
 
 
+
+.
 
 
 - Add your own files everyday and including the link to your repo when sharing your daily update in the #50daysofudacity channel. It's recommendated to add a new markdown file for each daily update. Example:

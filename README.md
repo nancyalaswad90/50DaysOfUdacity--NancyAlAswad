@@ -94,7 +94,8 @@ The **general guidelines** and additional info about the challenge can be found 
   - .
   - .
   - .
-  - 50 D50 50DaysOfUdacity
+  - 50 #50 50DaysOfUdacity
+
 
 
 

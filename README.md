@@ -99,16 +99,9 @@ The **general guidelines** and additional info about the challenge can be found 
 
 
 
-See an example of a daily update [here.](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/Example-Day%20of%20%2350daysofudacity.md)
-
-
-.
-
-
-![day 1111](https://user-images.githubusercontent.com/36210723/87434326-ff0cae00-c5f2-11ea-8a45-598e94479d07.jpg)
+###  See an example of a daily update [here.](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/Example-Day%20of%20%2350daysofudacity.md)
 
 .
-
 
 ================================================
 
@@ -132,14 +125,14 @@ See an example of a daily update [here.](https://github.com/nancyalaswad90/50Day
 
  - Create this repo **(50DaysOfUdacity--NancyAlAswad)**
  
- * Completed Lesson 2.11 to 2.22
+ - [Completed Lesson 2.11 to 2.22 ](![miro](https://user-images.githubusercontent.com/36210723/87430538-03829800-c5ee-11ea-9a8e-54a43b178498.jpg))
  
  - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha :nerd_face:
 
 
 .
 
-![miro](https://user-images.githubusercontent.com/36210723/87430538-03829800-c5ee-11ea-9a8e-54a43b178498.jpg)
+
 
 
 .

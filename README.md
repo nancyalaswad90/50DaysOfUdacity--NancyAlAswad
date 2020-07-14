@@ -129,7 +129,7 @@ The **general guidelines** and additional info about the challenge can be found 
  
  - [Completed Lesson 2.11 to 2.22 ](https://user-images.githubusercontent.com/36210723/87430538-03829800-c5ee-11ea-9a8e-54a43b178498.jpg)
  
- - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha :nerd_face:
+ - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :nerd_face:
 
 
 .

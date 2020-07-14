@@ -71,8 +71,7 @@ The **general guidelines** and additional info about the challenge can be found 
 
 .
 
-![templet](https://user-images.githubusercontent.com/36210723/87432425-a4725280-c5f0-11ea-975f-8e5263f92f78.jpg)
-
+![templet](https://user-images.githubusercontent.com/36210723/87432558-d683b480-c5f0-11ea-8d2e-dff9fb3bfc75.jpg)
 
 
 .

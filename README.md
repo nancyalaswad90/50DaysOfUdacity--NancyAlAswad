@@ -77,6 +77,7 @@ The **general guidelines** and additional info about the challenge can be found 
 
 .
 
+![templet](https://user-images.githubusercontent.com/36210723/87433393-ef409a00-c5f1-11ea-878e-af5bccaf74e8.jpg)
 
 
 .
@@ -88,8 +89,8 @@ The **general guidelines** and additional info about the challenge can be found 
 
 
 
-  - 01 D1 50DaysOfUdacity
-  - 02 D2 50DaysOfUdacity
+  - 01 #50DaysOfUdacity
+  - 02 #50DaysOfUdacity
   - .
   - .
   - .

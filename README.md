@@ -37,7 +37,6 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 ## How Does the Challenge Work?
 
----------------------------------
 
 
 **- Step 1:** Take the pledge [here](https://docs.google.com/forms/d/e/1FAIpQLSdbueD-0cAUE669KTB2fCj76bWIGaXMxcWdG8w04hO4STDfMQ/viewform)
@@ -58,7 +57,6 @@ The **general guidelines** and additional info about the challenge can be found 
 
 ## How to Use this Template ?
 
--------------------------------
 
 
 - Click on the Use this template button at the top of the [template;](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/README.md)
@@ -98,10 +96,14 @@ The **general guidelines** and additional info about the challenge can be found 
 
 
 
+.
+
+
 
 ###  See an example of a daily update [here.](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/Example-Day%20of%20%2350daysofudacity.md)
 
 .
+
 
 ================================================
 

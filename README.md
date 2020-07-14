@@ -103,7 +103,7 @@ See an example of a daily update here.
 
  - Create this repo **(50DaysOfUdacity--NancyAlAswad)**
  
- * Completed Lesson 2.3 to 2.22
+ * Completed Lesson 2.11 to 2.22
  
  - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha :nerd_face:
 

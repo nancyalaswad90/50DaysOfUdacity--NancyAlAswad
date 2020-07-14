@@ -1,6 +1,7 @@
 
 
-# 50DaysOfUdacity--NancyAlAswad
+# 50DaysOfUdacity
+
 
 
 
@@ -28,5 +29,20 @@ Because it builds habits that emphasize consistent practice to help the overall 
 ![git](https://user-images.githubusercontent.com/36210723/87428302-d2ed2f00-c5ea-11ea-9aa1-21b8c3cd7a7d.jpg)
 
 .
+
+
+
+Day 1 of #50daysofudacity
+Completed introduction
+Completed Lesson 2.1 to 2.11
+Encouraging @Sabyh  @Umesh Sharma  :muscle::muscle::raised_hands:
+:star-struck:
+2
+:pikachu_dancing:
+
+:muscle:
+
+
+
 
 

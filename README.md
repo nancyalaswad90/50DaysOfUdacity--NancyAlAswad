@@ -11,7 +11,7 @@ Repo to keep track of my progress during the #50DaysOfUdacity
 
 **This challenge** is to build a habit of consistent practice of new skills by making a public commitment to practicing the topics of your Foundation Course every day for 50 days.
 
-**The advantage here **
+**The advantage here**
 
 Because it builds habits that emphasize consistent practice to help the overall retention of new learning material.
 

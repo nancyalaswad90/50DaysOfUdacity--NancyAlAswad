@@ -44,7 +44,7 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 **- Step 2:** Code or practice the topics of your Foundation Course for **30 minutes EVERYDAY.**
 
-**- Step 3:** Post a short announcement in the **#50daysofudacity channel** (in the Slack workspace), summarising your day and note which day you are on
+**- Step 3:** Post a short announcement in the **#50daysofudacity channel** (in the Slack workspace), summarising your day and note .
 
 **- Step 4:** Encourage & Support at least 2 peers every day! 👏👏👏
 

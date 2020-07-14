@@ -9,8 +9,11 @@ Repo to keep track of my progress during the #50DaysOfUdacity
 ## What is the #50DaysofUdacity Challenge?
 
 
-The premise of this challenge is to build a habit of consistent practice of new skills by making a public commitment of practicing the topics of your Foundation Course every day for 50 days.
+** This challenge  ** is to build a habit of consistent practice of new skills by making a public commitment to practicing the topics of your Foundation Course every day for 50 days.
 
-Why? Because habits that emphasise consistent practice have been proven to help overall retention of new learning material.
+** The advantage here **
 
-This repo/template was created to make it easy to keep track of your progress during the challenge, and to add a visiual effect to your progess and commitment by updating your GitHub contribution chart daily (extra motivation!).
+Because it builds habits that emphasize consistent practice to help the overall retention of new learning material.
+
+
+** This repo **  is created to make it easy to keep track of my progress during the challenge and to add a visual effect to my progress and commitment by updating my GitHub contribution chart daily (extra motivation!).

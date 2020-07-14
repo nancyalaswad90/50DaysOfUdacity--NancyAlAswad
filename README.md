@@ -32,15 +32,11 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
-Day 1 of #50daysofudacity
-Completed introduction
-Completed Lesson 2.1 to 2.11
-Encouraging @Sabyh  @Umesh Sharma  :muscle::muscle::raised_hands:
-:star-struck:
-2
-:pikachu_dancing:
-
-:muscle:
+### Day 1 of #50daysofudacity
+ - Completed introduction
+ * Completed Lesson 2.1 to 2.11
+ - Encouraging @Sabyh  @Umesh Sharma  :muscle::raised_hands:
+ 
 
 
 

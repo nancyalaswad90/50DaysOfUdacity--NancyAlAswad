@@ -101,6 +101,13 @@ The **general guidelines** and additional info about the challenge can be found 
 See an example of a daily update [here.](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/Example-Day%20of%20%2350daysofudacity.md)
 
 
+.
+
+
+![day 1111](https://user-images.githubusercontent.com/36210723/87434326-ff0cae00-c5f2-11ea-8a45-598e94479d07.jpg)
+
+.
+
 
 ================================================
 

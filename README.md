@@ -152,9 +152,6 @@ The **general guidelines** and additional info about the challenge can be found 
 
 
 .
-![33333 5](https://user-images.githubusercontent.com/36210723/87530039-7f391f00-c698-11ea-939e-ccf977849436.jpg)
-![222222](https://user-images.githubusercontent.com/36210723/87530047-8102e280-c698-11ea-93c9-a54d8e233ad2.jpg)
-
 
 
 

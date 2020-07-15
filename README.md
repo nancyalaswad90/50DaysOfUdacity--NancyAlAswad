@@ -132,7 +132,21 @@ The **general guidelines** and additional info about the challenge can be found 
  - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :nerd_face:
 
 
-.
+
+
+ 
+### Day 3 of #50daysofudacity
+
+-----------------------------
+
+ - Create this repo **(50DaysOfUdacity--NancyAlAswad)**
+ 
+ - [Completed 97%  Lesson 2.22 to 2.30](https://user-images.githubusercontent.com/36210723/87430538-03829800-c5ee-11ea-9a8e-54a43b178498.jpg)
+
+
+ - Started Lesson 3 and finished till 3.5.
+ 
+ - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :nerd_face:
 
 
 

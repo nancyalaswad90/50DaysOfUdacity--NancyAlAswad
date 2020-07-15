@@ -145,7 +145,7 @@ The **general guidelines** and additional info about the challenge can be found 
 
  - [Started Lesson 3 and finished till 3.5.](https://user-images.githubusercontent.com/36210723/87530039-7f391f00-c698-11ea-939e-ccf977849436.jpg)
  
- - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :nerd_face:
+ - Encouraging  @Ahmed Gharib @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clapping-inclusive:
 
 
 

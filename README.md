@@ -139,7 +139,6 @@ The **general guidelines** and additional info about the challenge can be found 
 
 -----------------------------
 
- - Create this repo **(50DaysOfUdacity--NancyAlAswad)**
  
  - [Completed 97%  Lesson 2.22 to 2.30](https://user-images.githubusercontent.com/36210723/87530047-8102e280-c698-11ea-93c9-a54d8e233ad2.jpg)
 

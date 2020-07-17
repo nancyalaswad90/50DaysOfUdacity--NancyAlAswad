@@ -163,6 +163,19 @@ The **general guidelines** and additional info about the challenge can be found 
  
  
  
+ 
+ 
+  
+### Day 5 of #50daysofudacity
+
+-----------------------------
+ 
+
+ - Completed 48 % Lesson 3 
+ 
+ - Encouraging: @Sayed Ahmed @shield @Lamiae Hana  @Ahmed Gharib  @Raghad Hethnawi @NajiElKotob @Omar Ayman @Mossad Eldokanni @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clap: :clap:
+ 
+ 
 
 .
 

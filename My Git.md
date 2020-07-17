@@ -5,8 +5,9 @@ Let's walk through the git commands that go along with each step in the scenario
 
 
 ### STEP 1: You have a local version of this repository on your laptop, and to get the latest stable version, you pull from the develop branch.
- > Switch to the develop branch
-git checkout develop
+
+> Switch to the develop branch
+ >> git checkout develop
 
 Pull latest changes in the develop branch
 git pull

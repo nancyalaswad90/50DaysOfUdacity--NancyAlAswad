@@ -177,6 +177,25 @@ The **general guidelines** and additional info about the challenge can be found 
  
  
 
+ 
+  
+### Day 6 of #50daysofudacity 
+
+-----------------------------
+ 
+
+ - Completed 56 % Lesson 3 
+ - Watch Youtub lecture for Image Data Augmentation  https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA
+ - Encouraging: @Sayed Ahmed @shield @Lamiae Hana  @Ahmed Gharib  @Raghad Hethnawi @NajiElKotob @Omar Ayman @Mossad Eldokanni @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clap: :clap:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ Read ML related articles on Medium.
++ Refreshing on maths for ML.
 .
 
 

@@ -192,6 +192,10 @@ The **general guidelines** and additional info about the challenge can be found 
  
  
  
+   
+### Day  ءءءء of #50daysofudacity 
+
+-----------------------------
  
  
 + Read ML related articles on Medium.

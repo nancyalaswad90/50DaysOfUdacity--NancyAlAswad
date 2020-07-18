@@ -179,7 +179,7 @@ The **general guidelines** and additional info about the challenge can be found 
 
  
   
-### Day 6 of #50daysofudacity 
+### Day 6 of #50daysofudacity     18-07 
 
 -----------------------------
  
@@ -194,7 +194,7 @@ The **general guidelines** and additional info about the challenge can be found 
  
  
  
- ### Day 7 of #50daysofudacity 
+ ### Day 7 of #50daysofudacity     19-07
 
 -----------------------------
  

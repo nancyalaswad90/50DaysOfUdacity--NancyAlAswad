@@ -192,15 +192,30 @@ The **general guidelines** and additional info about the challenge can be found 
  
  
  
+ 
+ 
+ ### Day 7 of #50daysofudacity 
+
+-----------------------------
+ 
+ - Completed 82 % Lesson 3 
+ - Read ML related articles on Medium.
+ https://towardsdatascience.com/regularization-the-path-to-bias-variance-trade-off-b7a7088b4577.
+ 
+ - Encouraging: @Sayed Ahmed @shield @Lamiae Hana  @Ahmed Gharib  @Raghad Hethnawi @NajiElKotob @Omar Ayman @Mossad Eldokanni @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clap: :clap:
+ 
+   
+   
+   
+   
    
 ### Day  ءءءء of #50daysofudacity 
 
 -----------------------------
  
- 
-+ Read ML related articles on Medium.
-+ Refreshing on maths for ML.
-.
+- Read ML related articles on Medium.
+
+ - Watch Youtub lecture for .....
 
 
 

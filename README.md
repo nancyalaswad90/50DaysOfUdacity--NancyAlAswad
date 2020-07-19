@@ -205,9 +205,25 @@ The **general guidelines** and additional info about the challenge can be found 
  - Encouraging: @Sayed Ahmed @shield @Lamiae Hana  @Ahmed Gharib  @Raghad Hethnawi @NajiElKotob @Omar Ayman @Mossad Eldokanni @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clap: :clap:
  
    
+  
    
    
+ 
+ ### Day 8 of #50daysofudacity     20-07
+
+-----------------------------
+ 
+ - Completed 90 % Lesson 3 
+ - Explored more about Parametric vs Non-Parametric models.Here is the link
+https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
+ 
+ - Encouraging: @Sayed Ahmed @shield @Lamiae Hana  @Ahmed Gharib  @Raghad Hethnawi @NajiElKotob @Omar Ayman @Mossad Eldokanni @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clap: :clap:
+ 
    
+.
+.
+.
+
    
 ### Day  ءءءء of #50daysofudacity 
 
@@ -216,6 +232,3 @@ The **general guidelines** and additional info about the challenge can be found 
 - Read ML related articles on Medium.
 
  - Watch Youtub lecture for .....
-
-
-

@@ -218,8 +218,20 @@ The **general guidelines** and additional info about the challenge can be found 
 https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
  
 
-   
-.
+ 
+ 
+ 
+ 
+  
+ ### Day 9 of #50daysofudacity     21-07
+
+-----------------------------
+ 
+ - Completed 90 % Lesson 3 
+ - Explored more about Parametric vs Non-Parametric models.Here is the link
+https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
+
+
 .
 .
 

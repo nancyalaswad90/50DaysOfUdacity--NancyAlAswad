@@ -227,8 +227,9 @@ https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bf
 
 -----------------------------
  
- - Completed 90 % Lesson 3 
- - Explored more about Parametric vs Non-Parametric models.Here is the link
+ - Completed 100 % Lesson 3 Now , so it’s time to start Lesson 4 :tada: 
+ 
+ - Explored article on ReLU and type of ReLU :.Here is the link
 https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
 
 

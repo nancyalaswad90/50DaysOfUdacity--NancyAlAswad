@@ -217,8 +217,7 @@ The **general guidelines** and additional info about the challenge can be found 
  - Explored more about Parametric vs Non-Parametric models.Here is the link
 https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
  
- - Encouraging: @Sayed Ahmed @shield @Lamiae Hana  @Ahmed Gharib  @Raghad Hethnawi @NajiElKotob @Omar Ayman @Mossad Eldokanni @Dina AbdelRahman @Abdalmalek Abu-raddaha @Walla Adlan  :clap: :clap:
- 
+
    
 .
 .

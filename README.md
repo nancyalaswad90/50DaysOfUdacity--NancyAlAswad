@@ -233,6 +233,16 @@ https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bf
 https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
 
 
+
+
+
+ ### Day 10 of #50daysofudacity     22 07
+
+-----------------------------
+ 
+ - Completed 11 % Lesson 4 :tada: 
+ 
+ - Watch Youtub lecture for  Deep Learning 2019 - Regularization; Convolutions; Data ethics https://youtu.be/hkBa9pU-H48
 .
 .
 

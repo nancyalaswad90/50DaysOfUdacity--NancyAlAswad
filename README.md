@@ -236,7 +236,7 @@ https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bf
 
 
 
- ### Day 10 of #50daysofudacity     22 07
+ ### Day 10 of #50daysofudacity     22 -7
 
 -----------------------------
  

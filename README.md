@@ -259,7 +259,13 @@ https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bf
 
 
 
+ ### Day 12  of #50daysofudacity     24 -7
 
+-----------------------------
+ 
+ - Completed 35  % Lesson 4 :tada: 
+ 
+ 
 
 .
    

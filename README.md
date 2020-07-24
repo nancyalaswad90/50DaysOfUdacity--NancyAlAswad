@@ -248,15 +248,12 @@ https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bf
 
 
 
-
-
  ### Day 11 of #50daysofudacity     23 -7
 
 -----------------------------
  
  - Completed 22 % Lesson 4 :tada: 
  
-
 
 
  ### Day 12  of #50daysofudacity     24 -7
@@ -266,7 +263,34 @@ https://medium.com/@dataakkadian/what-are-parametric-vs-nonparametric-models-8bf
  - Completed 35  % Lesson 4 :tada: 
  
  
+ 
+  
+  
+### Day 13  of #50daysofudacity     25 -7
 
+-----------------------------
+ 
+ - Completed 42  % Lesson 4 :tada: 
+
+ - Read  articles on Medium for **Understanding AUC - ROC Curve ** 
+ https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+ 
+ 
+ 
+ 
+### Day 14  of #50daysofudacity     26 -7
+
+-----------------------------
+ 
+ - Completed 55  % Lesson 4 :tada: 
+
+ - Read  articles on Medium for **Applied Deep Learning - Part 3: Autoencoders** 
+https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+ 
+ 
+ 
+ 
+ 
 .
    
 ### Day  ءءءء of #50daysofudacity 

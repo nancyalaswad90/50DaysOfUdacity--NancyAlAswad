@@ -290,7 +290,23 @@ https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af
  
  
  
+  
+### Day 15 of #50daysofudacity     27 -7
+
+-----------------------------
  
+ - Completed 67 % Lesson 4 :tada: 
+
+ - Watch Youtub lecture for  (( How computers learn to recognize objects instantly | Joseph Redmon)) 
+https://www.youtube.com/watch?v=Cgxsv1riJhI
+
+
+
+
+
+
+
+
 .
    
 ### Day  ءءءء of #50daysofudacity 

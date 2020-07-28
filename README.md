@@ -306,6 +306,16 @@ https://www.youtube.com/watch?v=Cgxsv1riJhI
 
 
 
+  
+### Day 16 of #50daysofudacity     28 -7
+
+-----------------------------
+ 
+ - Completed 72 % Lesson 4 :tada: 
+
+ - Watch Youtub lecture for  ((Netflix Data Driven Animated Gif Campaign)) 
+ 
+https://www.youtube.com/watch?v=tZkILxaANLU
 
 .
    

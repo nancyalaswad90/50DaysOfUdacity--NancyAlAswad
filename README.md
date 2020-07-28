@@ -317,6 +317,55 @@ https://www.youtube.com/watch?v=Cgxsv1riJhI
  
 https://www.youtube.com/watch?v=tZkILxaANLU
 
+
+
+
+
+
+
+### Day 17 of #50daysofudacity     29 -7
+
+-----------------------------
+ 
+ - Completed 80 % Lesson 4 :tada: 
+
+ - Read ML related articles on Medium (( Top Google AI Tools for Everyone ))
+
+    https://towardsdatascience.com/top-google-ai-tools-for-everyone-60346ab7e08
+    
+        
+    
+    
+    
+ ### Day 18 of #50daysofudacity     30 -7
+
+-----------------------------
+ 
+ - Completed 89 % Lesson 4 :tada: 
+
+ - Watch Youtub lecture for  ((DATA)) 
+
+   https://www.youtube.com/watch?v=3lxBSuC6MZY&feature=youtu.be
+    
+
+
+
+
+ ### Day 19 of #50daysofudacity    31 -7
+
+-----------------------------
+ 
+ - Completed 95 % Lesson 4 :tada: 
+
+ - Watch Youtub lecture for  ((Machine Learning (Stanford)) 
+
+   https://www.youtube.com/watch?v=UzxYlbK2c7E
+    
+
+
+
+
+
 .
    
    .

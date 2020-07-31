@@ -366,7 +366,17 @@ https://www.youtube.com/watch?v=tZkILxaANLU
 
 
 
-.
+ ### Day 20 of #50daysofudacity    01-08 
+
+-----------------------------
+ 
+ - Completed  Lesson 4 :tada: 
+
+ - Watch Youtub lecture for  ( Machine Learning Fundamentals ) https://www.youtube.com/watch?v=FqcKTNcRH88&list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s&index=1
+ 
+ 
+ 
+ 
  .  
    .
 ### Day  ءءءء of #50daysofudacity 

@@ -377,7 +377,74 @@ https://www.youtube.com/watch?v=tZkILxaANLU
  
  
  
- .  
+ 
+ 
+  ### Day 21 of #50daysofudacity    02-08 
+
+-----------------------------
+ 
+ - Completed 6%  Lesson 5 :tada: 
+
+ - Watch  30% Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
+ 
+ 
+ 
+  
+  ### Day 22 of #50daysofudacity    03-08 
+
+-----------------------------
+ 
+ - Completed 12 %  Lesson 5 :tada: 
+
+ - Watch 60%  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
+ 
+   
+  ### Day 23 of #50daysofudacity    04 -08 
+
+-----------------------------
+ 
+ - Completed 20 %  Lesson 5 :tada: 
+
+ - Watch 80%  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  ### Day 24 of #50daysofudacity    05-08 
+
+-----------------------------
+ 
+ - Completed 30%  Lesson 5 :tada: 
+
+ - Watch 91%  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  ### Day 25 of #50daysofudacity    06-08 
+
+-----------------------------
+ 
+ - Completed 42 %  Lesson 5 :tada: 
+
+ - Watch 100 %  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
+ 
+ 
+ .
+ 
+ 
    .
 ### Day  ءءءء of #50daysofudacity 
 

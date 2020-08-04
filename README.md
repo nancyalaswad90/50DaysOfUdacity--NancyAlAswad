@@ -467,3 +467,9 @@ https://levelup.gitconnected.com/dashboards-in-python-for-beginners-using-dash-l
 
 .
 
+https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf
+
+.
+
+
+https://mentorcruise.com/books/ml/

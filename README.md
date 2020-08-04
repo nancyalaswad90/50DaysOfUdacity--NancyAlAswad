@@ -453,3 +453,17 @@ https://www.youtube.com/watch?v=tZkILxaANLU
 - Read ML related articles on Medium.
 
  - Watch Youtub lecture for .....
+
+
+
+
+
+
+.
+
+
+https://levelup.gitconnected.com/dashboards-in-python-for-beginners-using-dash-live-updates-and-streaming-data-into-a-dashboard-37660c1ba661
+
+
+.
+

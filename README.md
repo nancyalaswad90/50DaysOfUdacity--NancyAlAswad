@@ -473,3 +473,9 @@ https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more
 
 
 https://mentorcruise.com/books/ml/
+
+
+
+.
+
+https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279

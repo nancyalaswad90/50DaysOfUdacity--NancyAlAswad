@@ -443,6 +443,20 @@ https://www.youtube.com/watch?v=tZkILxaANLU
  
  
  
+ ### Day 26 of #50daysofudacity   07 -08
+
+-----------------------------
+
+ - Completed 65 %  Lesson 5 :tada: 
+ 
+ 
+- Read ML related articles on Medium. 
+
+Best Public Datasets for Machine Learning and Data Science(( https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279))
+ 
+ 
+ 
+ 
  
  .
  
@@ -455,6 +469,8 @@ https://www.youtube.com/watch?v=tZkILxaANLU
 - Read ML related articles on Medium.
 
  - Watch Youtub lecture for .....
+ 
+
 
 
 
@@ -480,4 +496,4 @@ https://mentorcruise.com/books/ml/
 
 .
 
-https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279
+

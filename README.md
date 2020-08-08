@@ -458,6 +458,24 @@ Best Public Datasets for Machine Learning and Data Science(( https://medium.com/
  
  
  
+ 
+ 
+  
+ ### Day 27 of #50daysofudacity   08 -08
+
+-----------------------------
+
+ - Completed 80 %  Lesson 5 :tada: 
+ 
+ 
+- Read ML related articles 
+
+Early Bird uses 10 times less energy to train deep neural networks Science((https://techxplore.com/news/2020-05-early-bird-energy-deep-neural.amp))
+ 
+ 
+ 
+ 
+ 
  .
  
  

@@ -497,8 +497,17 @@ https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more
  
  
  
+  
+  ### Day 29 of #50daysofudacity   10 -08
+
+-----------------------------
+
+ - Completed Lesson 5 :tada: :tada: :tada: 
  
  
+- Read articles : How Does Linear Regression Actually Work?
+ 
+ https://towardsdatascience.com/how-does-linear-regression-actually-work-3297021970dd
  
  
  .

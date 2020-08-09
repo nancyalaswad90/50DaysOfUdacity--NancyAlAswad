@@ -510,6 +510,34 @@ https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more
  https://towardsdatascience.com/how-does-linear-regression-actually-work-3297021970dd
  
  
+ 
+ 
+ 
+ 
+   
+  ### Day 30 of #50daysofudacity   11 -08
+
+-----------------------------
+
+ - Completed 6%  Lesson 6 :tada: :tada:
+ 
+ 
+- Read articles : Understanding Multiple Linear Regression
+ 
+https://medium.com/towards-artificial-intelligence/understanding-multiple-linear-regression-1b4a5b939f5a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  .
  
  

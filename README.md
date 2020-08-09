@@ -533,6 +533,19 @@ https://medium.com/towards-artificial-intelligence/understanding-multiple-linear
  
  
  
+   ### Day 31  of #50daysofudacity   12 -08
+
+-----------------------------
+
+ - Completed 13 %  Lesson 6 :tada: :tada:
+ 
+ 
+- Read articles : Various Optimization Algorithms For Training Neural Network
+ 
+ 
+ https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
+ 
+ 
  
  
  

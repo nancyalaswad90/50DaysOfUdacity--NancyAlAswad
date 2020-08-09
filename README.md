@@ -391,6 +391,7 @@ https://www.youtube.com/watch?v=tZkILxaANLU
  
  
  
+ 
   
   ### Day 22 of #50daysofudacity    03-08 
 
@@ -399,6 +400,8 @@ https://www.youtube.com/watch?v=tZkILxaANLU
  - Completed 12 %  Lesson 5 :tada: 
 
  - Watch 60%  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
  
  
  
@@ -426,8 +429,7 @@ https://www.youtube.com/watch?v=tZkILxaANLU
  - Watch 91%  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
  
  
- 
- 
+  
  
  
    
@@ -438,6 +440,8 @@ https://www.youtube.com/watch?v=tZkILxaANLU
  - Completed 42 %  Lesson 5 :tada: 
 
  - Watch 100 %  Youtub lecture for  ( Microsoft Azure Tutorial) https://www.youtube.com/watch?v=TQl9sN3qs3M&feature=youtu.be
+ 
+ 
  
  
  
@@ -476,6 +480,27 @@ Early Bird uses 10 times less energy to train deep neural networks Science((http
  
  
  
+ 
+ 
+  ### Day 28 of #50daysofudacity   09 -08
+
+-----------------------------
+
+ - Completed 92 %  Lesson 5 :tada: 
+ 
+ 
+- Read ML related articles : How to learn similar terms in a given unsupervised corpus using Word2Vec
+
+https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  .
  
  
@@ -503,7 +528,7 @@ https://levelup.gitconnected.com/dashboards-in-python-for-beginners-using-dash-l
 
 .
 
-https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf
+
 
 .
 

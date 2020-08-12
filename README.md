@@ -570,6 +570,30 @@ https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-model
 
 
 
+
+
+
+
+
+
+
+
+  
+   ### Day 33 of #50daysofudacity   14 -08
+
+-----------------------------
+
+ - Completed 22 %  Lesson 6 :tada: :tada:
+ 
+ 
+- Studied  (( A Complete Tutorial on Time Series Modeling in R)) 
+
+
+ Completed 20   % from ---->  Basics – Time Series Modeling
+ 
+ 
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
  .
  
  

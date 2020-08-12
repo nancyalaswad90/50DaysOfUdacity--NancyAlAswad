@@ -560,11 +560,16 @@ https://medium.com/towards-artificial-intelligence/understanding-multiple-linear
  - Completed 18 %  Lesson 6 :tada: :tada:
  
  
-- Read articles : Various Optimization Algorithms For Training Neural Network
+- Studied  (( A Complete Tutorial on Time Series Modeling in R)) 
+
+
+ Completed 11  % from ---->  Basics – Time Series Modeling
  
  
-https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
- 
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+
+
  .
  
  

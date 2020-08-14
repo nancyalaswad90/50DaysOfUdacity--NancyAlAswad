@@ -572,12 +572,7 @@ https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-model
 
 
 
-
-
-
-
-
-
+ 
   
    ### Day 33 of #50daysofudacity   14 -08
 
@@ -593,6 +588,43 @@ https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-model
  
  
 https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+
+
+
+
+
+
+  
+   ### Day 34 of #50daysofudacity   15 -08
+
+-----------------------------
+
+ - Completed 26 %  Lesson 6 :tada: :tada:
+ 
+ 
+- Studied  (( Time Series Forecasting using Python ) 
+
+
+ Completed 25  % from ---->  Basics – Time Series Modeling
+ 
+ 
+https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-using-python/texts/10561479-introduction-to-the-course#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  .
  

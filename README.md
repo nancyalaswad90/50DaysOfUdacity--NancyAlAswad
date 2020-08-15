@@ -620,6 +620,23 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 
 
+  ### Day 35 of #50daysofudacity   16 -08
+
+-----------------------------
+
+ - Completed 35 %  Lesson 6 :tada: :tada:
+ 
+ 
+- Studied  (( Time Series Forecasting using Python ) 
+
+
+ Completed 65  % from ---->  Basics – Time Series Modeling
+ 
+ 
+https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-using-python/texts/10561479-introduction-to-the-course#
+
+
+
 
 
 

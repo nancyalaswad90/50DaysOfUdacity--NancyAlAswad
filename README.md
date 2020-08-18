@@ -681,6 +681,20 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 
 
+  ### Day 38 of #50daysofudacity   19 -08
+
+-----------------------------
+
+ - Completed 80 %  Lesson 6 :tada: :tada:
+ 
+ 
+- Studied Part 2 : Software Engineering Fundamentals from  (( Machine Learning Engineer Nanodegree  ) ) 
+
+      lesson one : Introduction To Software Engineering 
+
+
+
+
 
 
 

@@ -793,6 +793,47 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
       lesson Three : Software Engineering Practices Part II
 
+ 
+ 
+ 
+ 
+       
+### Day 45 of #50daysofudacity   26 -08
+
+-----------------------------
+
+ - Completed 100 %  Lesson 7 :tada: :tada:
+ 
+ 
+
+- Keep studying Part 2: Software Engineering Fundamentals from  (( Machine Learning Engineer Nanodegree  ) ) 
+
+      lesson Three : Software Engineering Practices Part II
+
+
+
+
+
+### Day 46 of #50daysofudacity   27 -08
+
+-----------------------------
+
+
+
+ - Completed 100 %  Lesson 8  and my course material  :tada: :tada:
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
  .
  
 

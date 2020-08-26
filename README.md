@@ -802,7 +802,7 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 -----------------------------
 
- - Completed 100 %  Lesson 7 :tada: :tada:
+ - Completed 100 % (( Lesson 7 +  Lesson 8 ))  and my course material  :tada: :tada:
  
  
 
@@ -819,8 +819,6 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 -----------------------------
 
 
-
- - Completed 100 %  Lesson 8  and my course material  :tada: :tada:
  
  
  

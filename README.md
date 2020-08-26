@@ -819,7 +819,8 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 -----------------------------
 
 
-  - I completed reviewing of Lesson 2.
+
+  - Completed the reviewing of Lesson 2.
   
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
 

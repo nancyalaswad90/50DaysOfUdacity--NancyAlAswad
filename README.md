@@ -839,12 +839,26 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 
 
-  - Completed the reviewing of Lesson 3.
+  - Completed  55%  the reviewing of Lesson 3.
   
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
 
  
  
+ 
+ 
+ 
+ 
+ ### Day 48 of #50daysofudacity   29 -08
+
+-----------------------------
+
+
+
+  - Completed  100 % the reviewing of Lesson 3.
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+
 
 .
 

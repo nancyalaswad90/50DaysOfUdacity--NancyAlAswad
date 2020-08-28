@@ -845,50 +845,9 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
  
  
- 
-
-
-
- 
- .
- 
-
- .
- 
- 
-   .
-### Day  ءءءء of #50daysofudacity 
-
------------------------------
- 
-- Read ML related articles on Medium.
-
- - Watch Youtub lecture for .....
- 
-
-
-
-
-
-
 
 .
 
 
-https://levelup.gitconnected.com/dashboards-in-python-for-beginners-using-dash-live-updates-and-streaming-data-into-a-dashboard-37660c1ba661
-
-
-.
-
-
-
-.
-
-
-https://mentorcruise.com/books/ml/
-
-
-
-.
 
 

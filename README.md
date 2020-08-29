@@ -860,8 +860,18 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
 
 
-.
+
+
+
+---------------------------------
 
 
 
 
+So happy :blob-excited: to get this email!
+
+
+"Congrats on completing your Machine Learning Scholarship program for Microsoft Azure Foundational course!"
+
+
+![azure](https://user-images.githubusercontent.com/36210723/91625148-97959c80-e9ad-11ea-9148-a06ac1d51a8e.png)

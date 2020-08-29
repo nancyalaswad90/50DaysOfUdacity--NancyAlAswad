@@ -872,6 +872,11 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
   - Completed  30 % the reviewing of Lesson 4.
   
+  
+
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+  
+  
 
   - Receive my completing Machine Learning Scholarship program for Microsoft Azure Foundational course email  :point_right:   
   
@@ -883,8 +888,6 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 .
 
-
-  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
   
   .
   

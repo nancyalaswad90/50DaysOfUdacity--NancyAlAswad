@@ -893,5 +893,25 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   
   
   
+   ### Day 50 of #50daysofudacity   31 -08
+
+-----------------------------
+
+
+  - Completed (( Day 50))  of #50daysofudacity :blob-excited:
+  
+
+
+
+  - Completed  55 % the reviewing of Lesson 4.
+  
+  
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+
+
+
+
+  
   
   

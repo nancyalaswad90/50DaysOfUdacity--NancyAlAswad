@@ -964,10 +964,25 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 
 
+
+
+      
+   ### Day 53 of #50daysofudacity   3 -09
+
+-----------------------------
+
+ 
+
+  - Keep Completed reviewing Lesson 5 .
+  
+  
+  
+  
+  - Recieve my 50daysofUdacity_Badge 
+  - Recieve my [50daysofUdacity_Badge ](![conga.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1599093649/conga.png))
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+
+
+
 .
-...
-
-
-
-D51 of #50daysofudacity:  I completed my challenge yesterday, now started learning NLP with Topic modeling and will continue
-#50daysofUdacity_Badge.png 

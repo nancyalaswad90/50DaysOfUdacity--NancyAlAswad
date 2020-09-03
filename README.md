@@ -979,7 +979,7 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   
   
   - Recieve my 50daysofUdacity_Badge 
-  - Recieve my [50daysofUdacity_Badge ](![conga.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1599093649/conga.png))
+   ![conga.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1599093649/conga.png)
   
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
 

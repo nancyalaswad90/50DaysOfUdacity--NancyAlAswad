@@ -973,7 +973,7 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
  
 
-  - Keep Completed reviewing Lesson 5 .
+  - Keep reviewing Lesson 5 .
   
   
     

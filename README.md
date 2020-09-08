@@ -1096,4 +1096,24 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
 
 
 
+
+
+   ### Day 59 of #50daysofudacity   9-09
+
+-----------------------------
+
+ 
+
+  - Complete 19% reviewing Lesson 6 .
+  
+  
+  
+  - Studying Part 3: Software Engineering Fundamentals from  (( Machine Learning Engineer Nanodegree  ) ) 
+  
+  
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+
+
+
 .

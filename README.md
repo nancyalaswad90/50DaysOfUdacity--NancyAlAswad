@@ -1212,7 +1212,29 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   
   
   - Working in the SageMaker Project.
+     
   
-   
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+
+
+
+
+
+
+   ### Day 64 of #50daysofudacity   14-09
+
+-----------------------------
+
+ 
+
+  - Complete 20 % reviewing Lesson 2 .
+  
+  
+  
+  - Studying Part 5: Software Engineering Fundamentals from  (( Machine Learning Engineer Nanodegree  ) ) 
+  
+  
+  - Working in the SageMaker Project.
+     
   
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 

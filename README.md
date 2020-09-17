@@ -1283,3 +1283,29 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
 
+
+
+
+
+
+   ### Day 67 of #50daysofudacity   17-09
+
+-----------------------------
+
+ 
+
+  - Complete 100 % reviewing Lesson 7 .
+  
+   
+  - Working in the SageMaker Project, after getting icrease limit from Amazon
+     
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+  
+  
+  
+  
+  .
+  
+  
+  

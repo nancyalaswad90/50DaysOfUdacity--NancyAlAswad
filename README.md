@@ -1305,6 +1305,22 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   
   
   
+  
+  
+  
+  
+  
+   ### Day 68 of #50daysofudacity   18-09
+
+-----------------------------
+
+   
+  - Working in the SageMaker Project, after getting an increased limit from Amazon
+     
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+  
+  
   .
   
   

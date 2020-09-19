@@ -1321,6 +1321,26 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
   
   
+  
+  
+  
+  
+    
+   ### Day 69 of #50daysofudacity   19-09
+
+-----------------------------
+
+   
+  - Pass the SageMaker Project in  (( Machine Learning Engineer Nanodegree  ) ) 
+  
+    
+    
+  - Studying second project 
+  
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+  
+  
   .
   
   

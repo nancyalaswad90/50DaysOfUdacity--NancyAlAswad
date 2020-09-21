@@ -1343,7 +1343,7 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   
   .
   
-     ### Day 70 of #50daysofudacity   20-09
+ ### Day 70 of #50daysofudacity   20-09
 
 -----------------------------
 

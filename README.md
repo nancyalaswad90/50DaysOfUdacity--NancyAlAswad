@@ -1403,3 +1403,18 @@ https://courses.analyticsvidhya.com/courses/take/creating-time-series-forecast-u
   .
   
   
+  
+     ### Day 74 of #50daysofudacity   24 -09
+
+-----------------------------
+
+    
+  - Pass my Second project  in  (( Machine Learning Engineer Nanodegree  ) ) 
+  
+  
+   - Studying Third project  in  (( Machine Learning Engineer Nanodegree  ) ) 
+  
+  
+  - Review my 50DaysOfUdacity--NancyAlAswad   :point_right:   https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad 
+  
+  
